@@ -1,1 +1,1 @@
-# Positioning-Companies-in-Markets-using-Perceptual-Map
+# Market-Positioning-using-Perceptual-Maps
