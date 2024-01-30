@@ -16,13 +16,13 @@ Attribute-based perceptual maps display data from customer evaluations of produc
 
 Consumers evaluate household blenders (within a given price range) by considering feature availability and blending power. According to consumerreports.org [1], some leading brands and models for popular consumer blenders at about $60 are as follows:
 
-Black &Decker BL 1900 
-Cuisinart BFP-703CH
-Hamilton Beach 56221 
-KitchenAid KSB560
-Oster 4093 Beehive
-Sunbeam 3350W
-Waring WPB80BC
+- Black &Decker BL 1900 
+- Cuisinart BFP-703CH
+- Hamilton Beach 56221 
+- KitchenAid KSB560
+- Oster 4093 Beehive
+- Sunbeam 3350W
+- Waring WPB80BC
 
 Selection Criteria: I start by researching the market segment to determine the selection criteria. I find that, for blenders, customers use two decision criteria - features and power when shopping for blenders. "Features" refer to the number of speed settings and other adjustments available on the machine. For example, features in our set ranged from simple, as in the Off-Low-High switch in the Waring, or elaborate, as in the Cuisinart. 
 
