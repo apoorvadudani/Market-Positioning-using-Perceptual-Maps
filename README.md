@@ -26,21 +26,19 @@ Waring WPB80BC
 
 Selection Criteria: I start by researching the market segment to determine the selection criteria. I find that, for blenders, customers use two decision criteria - features and power when shopping for blenders. "Features" refer to the number of speed settings and other adjustments available on the machine. For example, features in our set ranged from simple, as in the Off-Low-High switch in the Waring, or elaborate, as in the Cuisinart. 
 
-![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/54032e1c-0f38-4ff7-a404-e8e1af9b0445)
-
-![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/2b4d6689-4f6c-4bf5-9e53-fd35509b3986)
+![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/54032e1c-0f38-4ff7-a404-e8e1af9b0445) ![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/2b4d6689-4f6c-4bf5-9e53-fd35509b3986)
 
 Meanwhile, power refered to the effective chopping power of the blender, ranging from the relatively weak Sunbeam to the ferocious Oster.
 
-![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/4941ade4-f870-4b8c-8452-878bb4206d17)
-
-![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/ad155db7-3f46-4932-b331-3458cb59d3a5)
+![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/4941ade4-f870-4b8c-8452-878bb4206d17) ![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/ad155db7-3f46-4932-b331-3458cb59d3a5)
 
 Market Survey: Next, I survey individuals in the marketsegment for their perceived rating for each choice within the category. I ask them to rate each choice against the two selection criteria discovered earlier on a 1- 10 rating scale. I designate a "5" for expected features, such as three or four speeds, with lower scoers for more Spartan features and higher scores for extensive features. Similarly, ratings for efective ranged from "1", designating relatively weak performance, to "5", indicating expected power, to "10" designating very strong chopping power. Afetr surveying the individuals, I averaged the results as follows:
 
 _Note: you can also find the results of the survey in the "blender dataset.csv" dataset in this repository._
 
+
 <img width="392" alt="Screenshot 2024-01-29 at 7 20 02 PM" src="https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/26844819-ce92-4c53-b9b6-838c99750270">
+
 
 I use MS Excel to build a perceptual map for these competing brands across a two-dimensional XY scatter plot.
 
