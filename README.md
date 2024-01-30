@@ -44,7 +44,7 @@ I use MS Excel to build a perceptual map for these competing brands across a two
 
 ## Findings and recommendations
 
-![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/a0de6b23-b3f2-44f0-8a02-70d905d84386)
+![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/c27940a3-d501-4a68-9ea9-88768018bb58)
 
 From the map, we see several brands competing in the "Basic Features & High Power" quadrant. We see only one brand each in the "Basic Features & Low Power and Feature Rich & Low Power" quadrant. Surprisingly, we do not see any brands at all in the "Feature Rich & High Power" quadrant.
 
