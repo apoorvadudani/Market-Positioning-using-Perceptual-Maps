@@ -6,6 +6,8 @@ Brand positioning is defined as placing the product or service in the mind of a 
 
 I want to launch my own brand of household blenders, and for that I'll need to assess customer perceptions of existing blender brands and model attributes in the market and identify any gaps in order to ensure a successful launch and positioning that ensures my brand's growth. 
 
+![image](https://github.com/apoorvadudani/Market-Positioning-using-Perceptual-Maps/assets/113878059/25fe7ed3-b5b0-46f0-bb52-7076dbd7986d)
+
 ## Research methodology and data analysis selection
 
 Perceptual mapping graphically represents customers' perceptions of important attributes of areas of interest for marketers, such as product or service categories and brands. The maps show us the "position" of products and services in the customer's mind. Two-dimensional perceptual maps use the x and y axes to denote the two primary purchasing criteria consumers consider when buying a product or service. 
